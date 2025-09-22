@@ -1,7 +1,7 @@
 # ⚡ Aman Parida  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00F79C&center=true&vCenter=true&width=650&lines=✨+Full-Stack+Developer;🔥+MERN+Stack+Specialist;🎨+Frontend+UI+Craftsman;📚+Thriving+%26+Striving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00F79C&center=true&vCenter=true&width=650&lines=✨+Full-Stack+Developer;🔥+Skilled+at+MERN+Stack;🎨+Frontend+UI+Craftsman;📚+Thriving+%26+Striving" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://github.com/Aman-Tech990"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
-  <a href="https://x.com/aman_tech001"><img src="https://skillicons.dev/icons?i=x" height="40"></a>
+  <a href="https://x.com/aman_tech001"><img src="https://skillicons.dev/icons?i=twitter" height="40"></a>
   <a href="https://www.linkedin.com/in/aman-parida-374468360"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
   <a href="mailto:amanparidaprofessional@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
 </p>
