@@ -7,11 +7,10 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 CSE Student @ CV Raman University, Bhubaneswar  
-- 💡 Passionate about **MERN stack development** & modern web solutions  
-- 🛠 Skilled in **Vite, shadcn/ui, Material UI, Tailwind CSS, Bootstrap**  
-- ⚡ Strong DSA + Java foundation with a problem-solving mindset  
-- 🏆 Hackathon Champion | Always striving for excellence  
+- 🎓 CSE Student @CV Raman University, Bhubaneswar  
+- 💡 Passionate about **Full stack development** & modern web solutions  
+- 🛠 Skilled in **React.js, Vite, shadcn/ui, Material UI, Tailwind CSS, Bootstrap, Node.js, Express.js, Postman, MongoDB**    
+- 🏆 Always striving for excellence
 
 ---
 
@@ -37,27 +36,27 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanparida&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F79C&icon_color=00F79C&text_color=FFFFFF" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amanparida&theme=radical&hide_border=true&background=0D1117&ring=00F79C&fire=FF007F&currStreakLabel=FFFFFF" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Tech990&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F79C&icon_color=00F79C&text_color=FFFFFF" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aman-Tech990&theme=radical&hide_border=true&background=0D1117&ring=00F79C&fire=FF007F&currStreakLabel=FFFFFF" height="160"/>
 </p>
 
 ---
 
-## 🌟 Fun Extras  
+## 🌟 Paraphernalia 
 
-- 🧩 **Current Focus** → Mastering MERN + Advanced Frontend UI  
-- 🎯 **Goal 2025** → Land top internships + Build real-world impact projects  
-- 📖 **Learning** → React Native + System Design  
-- 🎮 **Hobbies** → Cricket • Hackathons • Tech Blogging  
+- 🧩 **Current Focus** → Upskilling MERN Stack
+- 🎯 **Devlopment goals** → Build real-world impactful projects    
+- 🎮 **Hobbies** → Spirituality • Cricket • Tech Blogging  
 
 ---
 
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://github.com/amanparida"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
-  <a href="https://www.linkedin.com/in/amanparida"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
+  <a href="https://github.com/Aman-Tech990"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
+  <a href="https://x.com/aman_tech001"><img src="https://skillicons.dev/icons?i=x" height="40"></a>
+  <a href="https://www.linkedin.com/in/aman-parida-374468360"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
+  <a href="mailto:amanparidaprofessional@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
 </p>
 
 ---
