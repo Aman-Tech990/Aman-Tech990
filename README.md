@@ -33,15 +33,6 @@
 
 ---
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Tech990&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F79C&icon_color=00F79C&text_color=FFFFFF" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aman-Tech990&theme=radical&hide_border=true&background=0D1117&ring=00F79C&fire=FF007F&currStreakLabel=FFFFFF" height="160"/>
-</p>
-
----
-
 ## 🌟 Paraphernalia 
 
 - 🧩 **Current Focus** → Upskilling MERN Stack
