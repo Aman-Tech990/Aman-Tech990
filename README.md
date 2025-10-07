@@ -9,7 +9,7 @@
 I'm a **young, aspiring software engineer** navigating the dynamic landscape of modern technologies and tools.  
 A driven explorer of the digital realm, constantly discovering, learning, and implementing **cutting-edge solutions that creates impacts**.  
 
-Driven by a **love for technology and innovation**, I'm drawn to like-minded creators who share the vision of building software that doesn't just work—it **transforms lives** and creates real-world impact.  
+Driven by a **love for technology and innovation**, I'm drawn to like-minded creators who share the vision of building software that doesn't just work, rather it **transforms lives** and creates real-world impact.  
 I'm committed to **excellence, collaboration, and pushing the boundaries** of what's possible in software engineering.  
 
 ---
