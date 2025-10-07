@@ -7,7 +7,7 @@
 ## 👋 About Me  
 
 I'm a **young, aspiring software engineer** navigating the dynamic landscape of modern technologies and tools.  
-A passionate explorer of the digital realm, constantly discovering, learning, and implementing **cutting-edge solutions that matter**.  
+A driven explorer of the digital realm, constantly discovering, learning, and implementing **cutting-edge solutions that creates impacts**.  
 
 Driven by a **love for technology and innovation**, I'm drawn to like-minded creators who share the vision of building software that doesn't just work—it **transforms lives** and creates real-world impact.  
 I'm committed to **excellence, collaboration, and pushing the boundaries** of what's possible in software engineering.  
@@ -16,7 +16,7 @@ I'm committed to **excellence, collaboration, and pushing the boundaries** of wh
 
 ## 🛠️ Tech Stack & Tools  
 
-### ⭐ MERN Stack Specialist  
+### ⭐ MERN Stack Expertise  
 <div align="center">
 
 | MongoDB | Express | React | Node.js |
@@ -63,9 +63,9 @@ I'm committed to **excellence, collaboration, and pushing the boundaries** of wh
 
 | Language | Focus |
 |-----------|--------|
-| 🟨 **JavaScript** | The heart of web development |
-| 🐍 **Python** | Data and scripting |
-| ☕ **Java** | Object-oriented programming |
+| 🟨 **JavaScript** | The heart of my Web development journey |
+| ☕ **Java** | Data Structures and Algorithms | Object-oriented programming |
+| 🐍 **Python** | Data and Ai/ML |
 
 </div>
 
@@ -87,7 +87,7 @@ I'm committed to **excellence, collaboration, and pushing the boundaries** of wh
 Every line of code is a **step forward** in my continuous learning journey.  
 I immerse myself in **algorithms, design patterns, and best practices**, not just as theoretical knowledge but as **principles to live by** in computer science.  
 
-I believe in **learning by doing**—building projects that challenge my capabilities and expand my understanding of how software can solve real problems.  
+I believe in **learning by doing**, building projects that challenge my capabilities and expand my understanding of how software can solve real problems.  
 The **intersection of innovation and pragmatism** is where I thrive.  
 
 ---
@@ -105,7 +105,7 @@ The **intersection of innovation and pragmatism** is where I thrive.
 I'm always excited to collaborate with **passionate developers, designers, and innovators**.  
 Whether it's contributing to open-source, building a startup, or tackling challenging problems—let's create something extraordinary together!  
 
-**💬 Open to:**  
+**💬 Always Open to:**  
 - Collaborations on exciting projects  
 - Opportunities for growth and learning  
 - Meaningful conversations about tech and innovation  
@@ -113,7 +113,7 @@ Whether it's contributing to open-source, building a startup, or tackling challe
 
 ---
 
-## 💭 Philosophy  
+## 💭 What I truly believe in.. 
 
 > *"Great software isn't just about code—it's about the impact it creates."*  
 
