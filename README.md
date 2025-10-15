@@ -96,7 +96,7 @@ The **intersection of innovation and pragmatism** is where I thrive.
 
 | 🔥 Passion | 🤝 Collaboration | 🌍 Impact |
 |:-----------:|:----------------:|:-----------:|
-| Driven by love for technology and problem-solving. Every project is a chance to create meaning. | Building amazing things with talented people—diverse ideas make better solutions. | Creating software that **matters** and **changes lives** for the better. |
+| Driven by love for technology and problem-solving. Every project is a chance to create meaning. | Building amazing things with talented people, diverse ideas make better solutions. | Creating software that **matters** and **changes lives** for the better. |
 
 ---
 
