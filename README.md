@@ -2,7 +2,7 @@
 
 > ⚡ **Crafting Digital Solutions with Impact**
 
----
+--- 
 
 ## 👋 About Me    
 
