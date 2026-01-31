@@ -99,7 +99,6 @@ Platforms:
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![CodeRabbit](https://img.shields.io/badge/CodeRabbit-000?style=for-the-badge)
 
