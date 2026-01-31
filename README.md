@@ -1,34 +1,29 @@
 # 💡 Full-Stack Developer  
 
-> **Designing scalable systems. Writing meaningful code. Learning every day.**
+> **Building scalable systems. Writing clean code. Improving every day.**
 
 ---
 
-## 👋 About Me  
+## 👋 About  
 
-I’m a **full-stack developer** driven by curiosity, discipline, and a deep respect for clean engineering.  
-I enjoy working across the stack — from crafting elegant user interfaces to building reliable backend systems and integrating intelligent features.
-
-For me, development is not a destination but a **continuous process of refinement**.  
-Every day brings a new opportunity to learn, improve, and build something better than yesterday.
-
-I’m especially passionate about writing software that is **thoughtful, efficient, and impactful**.
+I’m a **full-stack developer** who enjoys working across the stack — from intuitive user interfaces to robust backend systems and intelligent integrations.  
+I believe in **consistent learning**, **clean engineering**, and building software that lasts.
 
 ---
 
-## 🧠 What I Focus On  
+## 🧠 Current Focus  
 
-• Building **end-to-end web applications**  
-• Designing **maintainable & scalable architectures**  
-• Working with **SQL and NoSQL databases**  
-• Integrating **AI into real-world applications**  
-• Improving **problem-solving skills through daily DSA practice**
+• Full-stack web development  
+• Scalable system design  
+• SQL & NoSQL databases  
+• AI-powered integrations  
+• Daily DSA practice in **Java**
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 🌐 Full-Stack Development  
+### 🌐 Full-Stack  
 
 <div align="center">
 
@@ -43,7 +38,7 @@ I’m especially passionate about writing software that is **thoughtful, efficie
 
 ---
 
-### 🎨 UI & Frontend  
+### 🎨 UI  
 
 <div align="center">
 
@@ -56,7 +51,7 @@ I’m especially passionate about writing software that is **thoughtful, efficie
 
 ---
 
-### ⚙️ Backend & Databases  
+### ⚙️ Databases  
 
 <div align="center">
 
@@ -68,7 +63,7 @@ I’m especially passionate about writing software that is **thoughtful, efficie
 
 ---
 
-### 🤖 AI & Integrations  
+### 🤖 AI & APIs  
 
 <div align="center">
 
@@ -79,81 +74,51 @@ I’m especially passionate about writing software that is **thoughtful, efficie
 
 ---
 
-## 💻 Programming Languages  
+## 💻 Languages  
 
-| Language | Purpose |
-|--------|--------|
-| **JavaScript / TypeScript** | Full-stack web development |
-| **Java** | Data Structures, Algorithms, and problem solving |
-| **Python** | AI, ML, and data-centric tasks |
+| Language | Usage |
+|--------|------|
+| **JavaScript / TypeScript** | Full-stack development |
+| **Java** | DSA & problem solving |
+| **Python** | AI & data tasks |
 
 ---
 
-## 🧩 Problem Solving & DSA  
+## 🧩 DSA & Problem Solving  
 
-I actively work on **strengthening problem-solving skills** by practicing **Data Structures and Algorithms daily in Java**.
+I practice **Data Structures & Algorithms daily in Java**, focusing on writing optimized and readable solutions.
 
-I regularly solve problems on platforms such as:
+Platforms:
 - **LeetCode**
 - **GeeksforGeeks**
 
-This daily practice helps me:
-- Think logically and systematically  
-- Write optimized and readable code  
-- Improve time and space complexity awareness  
-- Strengthen core computer science fundamentals  
-
-Consistency in DSA is a key part of my growth as an engineer.
-
 ---
 
-## 🧰 Developer Tools  
+## 🧰 Tools  
 
 <div align="center">
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![CodeRabbit](https://img.shields.io/badge/CodeRabbit-000?style=for-the-badge)
 
 </div>
 
----
-
-## 🌱 My Approach  
-
-I believe real growth comes from:
-- Building things from scratch  
-- Understanding systems deeply  
-- Learning from mistakes  
-- Improving a little every single day  
-
-I value **clarity over cleverness**, **consistency over shortcuts**, and **impact over noise**.
+Using **CodeRabbit** as an AI code reviewer — like having a senior dev review my pull requests — helps me improve code quality and best practices.
 
 ---
 
-## 💎 Core Values  
+## 🌱 Mindset  
 
-| Growth | Collaboration | Impact |
-|------|---------------|--------|
-| Continuous learning and self-improvement | Building with people who value quality | Creating software that genuinely matters |
-
----
-
-## 🌟 Let’s Connect  
-
-I’m always open to:
-- Collaborating on meaningful projects  
-- Learning from experienced developers  
-- Exploring challenging engineering problems  
-- Building products that create real value  
-
-If you enjoy thoughtful engineering and constant learning, we’ll connect well.
+• Learn daily  
+• Build consistently  
+• Write clean, maintainable code  
+• Optimize before complicating  
 
 ---
 
-## 💭 What I Believe  
+## 💭 Belief  
 
 > *“Good code works. Great code lasts.”*
-
-I aim to write software that is not only functional today, but maintainable, scalable, and impactful in the long run.
 
 ---
 
