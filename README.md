@@ -17,7 +17,7 @@ I believe in **consistent learning**, **clean engineering**, and building softwa
 • Scalable system design  
 • SQL & NoSQL databases  
 • AI-powered integrations  
-• Daily DSA practice in **Java**
+• Writing production-grade, maintainable code  
 
 ---
 
@@ -45,6 +45,7 @@ I believe in **consistent learning**, **clean engineering**, and building softwa
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss)
 ![Shadcn](https://img.shields.io/badge/Shadcn%20UI-111?style=for-the-badge)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
 </div>
@@ -63,12 +64,12 @@ I believe in **consistent learning**, **clean engineering**, and building softwa
 
 ---
 
-### 🤖 AI & APIs  
+### 🔁 Version Control  
 
 <div align="center">
 
-![AI](https://img.shields.io/badge/AI%20Integration-000?style=for-the-badge)
-![REST](https://img.shields.io/badge/REST%20APIs-000?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 
 </div>
 
@@ -79,14 +80,14 @@ I believe in **consistent learning**, **clean engineering**, and building softwa
 | Language | Usage |
 |--------|------|
 | **JavaScript / TypeScript** | Full-stack development |
-| **Java** | DSA & problem solving |
-| **Python** | AI & data tasks |
+| **Java** | Backend logic & problem solving |
+| **Python** | AI & data-related tasks |
 
 ---
 
-## 🧩 DSA & Problem Solving  
+## 🧩 Problem Solving  
 
-I practice **Data Structures & Algorithms daily in Java**, focusing on writing optimized and readable solutions.
+I regularly practice **Data Structures & Algorithms in Java** to strengthen problem-solving skills and write efficient backend logic.
 
 Platforms:
 - **LeetCode**
@@ -98,12 +99,13 @@ Platforms:
 
 <div align="center">
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![CodeRabbit](https://img.shields.io/badge/CodeRabbit-000?style=for-the-badge)
 
 </div>
 
-Using **CodeRabbit** as an AI code reviewer — like having a senior dev review my pull requests — helps me improve code quality and best practices.
+Using **CodeRabbit** as an AI code reviewer helps me improve code quality, maintainability, and best practices through automated pull request reviews.
 
 ---
 
@@ -124,6 +126,6 @@ Using **CodeRabbit** as an AI code reviewer — like having a senior dev review 
 
 <div align="center">
 
-### ✨ Always learning. Always building.  
+### ✨ Always learning. Always building.
 
 </div>
