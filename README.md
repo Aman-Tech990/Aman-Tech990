@@ -38,7 +38,7 @@ I believe in **consistent learning**, **clean engineering**, and building softwa
 
 ---
 
-### 🎨 UI  
+### 🎨 UI Design
 
 <div align="center">
 
