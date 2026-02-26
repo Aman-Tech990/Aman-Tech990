@@ -16,8 +16,7 @@ I believe in **consistent learning**, **clean engineering**, and building softwa
 • Full-stack web development  
 • Scalable system design  
 • SQL & NoSQL databases  
-• AI-powered integrations  
-• Writing production-grade, maintainable code  
+• AI-powered integrations    
 
 ---
 
@@ -80,7 +79,7 @@ I believe in **consistent learning**, **clean engineering**, and building softwa
 | Language | Usage |
 |--------|------|
 | **JavaScript / TypeScript** | Full-stack development |
-| **Java** | Backend logic & problem solving |
+| **Java** | DSA & Problem solving |
 | **Python** | AI & data-related tasks |
 
 ---
