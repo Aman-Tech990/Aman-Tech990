@@ -103,8 +103,6 @@ Platforms:
 
 </div>
 
-Using **CodeRabbit** as an AI code reviewer helps me improve code quality, maintainability, and best practices through automated pull request reviews.
-
 ---
 
 ## 🌱 Mindset  
