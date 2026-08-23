@@ -22,13 +22,13 @@
 
 Hi, I'm **Aman Parida**, a **Full-Stack Developer** who enjoys building things from the ground up.
 
-I work across the stack, from crafting clean and intuitive interfaces to designing backend systems, APIs, databases, and infrastructure.
+I work across the stack, from crafting clean and intuitive interfaces to designing backend systems, APIs, databases, cloud infrastructure, and deployment pipelines.
 
-I'm currently going deeper into **System Design**, **Backend Systems & Microservices**, and **Generative AI**. I'm also exploring how **RAG, LangChain, and LangGraph** can be combined with modern web applications to build useful AI-powered products.
+I'm currently going deeper into **System Design**, **Backend Systems & Microservices**, **Cloud & DevOps**, and **Generative AI**. I'm also exploring how **RAG, LangChain, and LangGraph** can be combined with modern web applications to build useful AI-powered products.
 
 Alongside development, I regularly practice **Data Structures & Algorithms in Java** because strong engineering starts with strong fundamentals.
 
-```javascript
+```
 const aman = {
     role: "Full-Stack Developer",
     location: "Bhubaneswar, India",
@@ -41,7 +41,6 @@ const aman = {
 
     development: [
         "React",
-        "Next.js",
         "Node.js",
         "Express.js",
         "MongoDB",
@@ -56,10 +55,22 @@ const aman = {
         "REST APIs"
     ],
 
+    cloudAndDevOps: [
+        "AWS",
+        "EC2",
+        "ECS",
+        "ECR",
+        "S3",
+        "IAM",
+        "CloudWatch",
+        "CI/CD"
+    ],
+
     ai: [
         "RAG",
         "LangChain",
-        "LangGraph"
+        "LangGraph",
+        "Agentic AI"
     ],
 
     problemSolving: {
@@ -81,7 +92,7 @@ Building modern web applications across the entire stack.
 
 Frontend
 
-⚛️ React • ▲ Next.js • TypeScript
+⚛️ React.js • TypeScript
 🎨 Tailwind CSS • ShadCN UI
 
 Backend
@@ -110,6 +121,16 @@ Technologies
 🌐 NGINX • 🧩 Microservices • 🔌 REST APIs
 
 </td> <td width="50%" valign="top">
+☁️ Cloud & DevOps
+
+Working with cloud infrastructure, containerization, and deployment pipelines.
+
+AWS
+
+☁️ EC2 • 📦 ECR • 🧩 ECS • 🪣 S3
+🔐 IAM • 📊 CloudWatch • 🔄 CI/CD
+
+</td> </tr> <tr> <td width="50%" valign="top">
 🧠 Problem Solving
 
 Regularly solving DSA problems in Java to strengthen algorithmic thinking.
@@ -118,6 +139,16 @@ Focus
 
 📦 Data Structures • 🧮 Algorithms
 ⚡ Optimization • 🏁 Competitive Programming
+
+</td> <td width="50%" valign="top">
+🔄 CI/CD & Deployment
+
+Building repeatable deployment workflows for modern applications.
+
+Focus
+
+🐳 Docker • ☁️ AWS • 🔄 CI/CD
+📦 Container Registries • 🌐 Production Deployments
 
 </td> </tr> </table>
 🏆 Achievements
@@ -162,22 +193,8 @@ Former Summer Intern
 SIH 2025
 
 Distinguished Performer
-
-</td> <td align="center" width="180">
-💻
-
-29+
-
-Repositories
-
-</td> <td align="center" width="180">
-⭐
-
-6+
-
-GitHub Stars
-
 </td> </tr> </table> </div>
+
 🧩 Problem Solving
 
 I regularly practice Data Structures & Algorithms in Java ☕ across competitive programming platforms.
@@ -197,10 +214,12 @@ I regularly practice Data Structures & Algorithms in Java ☕ across competitive
 <div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </div>
 🗄️ Databases
 <div align="center"> <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" /> </div>
-☁️ DevOps & Infrastructure
-<div align="center"> <img src="https://skillicons.dev/icons?i=docker,redis,nginx,git,github" /> </div>
+☁️ Cloud & AWS
+<div align="center"> <img src="https://skillicons.dev/icons?i=aws" /> <br> <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" /> </div>
+🐳 DevOps & Infrastructure
+<div align="center"> <img src="https://skillicons.dev/icons?i=docker,redis,nginx,git,github" /> <br> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> </div>
 🤖 AI / GenAI
-<div align="center"> <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" /> <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge" /> </div>
+<div align="center"> <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" /> <img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge" /> <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge" /> </div>
 🧰 Tools
 <div align="center"> <img src="https://skillicons.dev/icons?i=vscode,postman,git,github" /> </div>
 🛰️ Experience & Recognition
@@ -242,11 +261,13 @@ Worked on VedaVerse, an immersive Ayurveda-focused solution combining modern web
 
 <br>
 Build → Break → Understand → Improve
-
+</div>
+📊 GitHub Activity
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aman-Tech990&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Tech990&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/> <br> <img src="https://streak-stats.demolab.com?user=Aman-Tech990&theme=tokyonight&hide_border=true" /> </div>
 🌐 Connect With Me
 <div align="center"> <a href="https://www.linkedin.com/in/aman-parida-374468360/"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Aman-Tech990"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://leetcode.com/Aman_tech/"> <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> <a href="https://codolio.com/profile/aman_parida"> <img src="https://img.shields.io/badge/CODOLIO-4F46E5?style=for-the-badge&logoColor=white" /> </a> </div> <br> <div align="center">
 🌟 Always learning. Always building.
 
 🧠 Learn → 🛠️ Build → 💥 Break → 🔍 Understand → 📈 Improve
 
-<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E3A8A,70:2563EB,100:06B6D4&height=130&section=footer" width="100%"/> </div>
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E3A8A,70:2563EB,100:06B6D4&height=130&section=footer" width="100%"/> </div> ```
