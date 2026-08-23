@@ -244,26 +244,14 @@ Worked on VedaVerse, an immersive Ayurveda-focused solution combining modern web
 🌿 Built around the intersection of technology, traditional knowledge, and immersive experiences.
 
 </td> </tr> </table>
+<br>
+
 🏗️ My Engineering Mindset
 <div align="center">
 💡 IDEA → 🔨 BUILD → 💥 BREAK → 🐛 DEBUG → 🧠 LEARN → 📈 IMPROVE → 🔁 REPEAT
 </div>
-💭 Philosophy
-<div align="center">
-
-"Good code works. Great code lasts."
-
 <br>
 
-🌱 Don't just learn technologies.
-
-🔍 Understand the systems behind them.
-
-<br>
-Build → Break → Understand → Improve
-</div>
-📊 GitHub Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aman-Tech990&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Tech990&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/> <br> <img src="https://streak-stats.demolab.com?user=Aman-Tech990&theme=tokyonight&hide_border=true" /> </div>
 🌐 Connect With Me
 <div align="center"> <a href="https://www.linkedin.com/in/aman-parida-374468360/"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Aman-Tech990"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://leetcode.com/Aman_tech/"> <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> <a href="https://codolio.com/profile/aman_parida"> <img src="https://img.shields.io/badge/CODOLIO-4F46E5?style=for-the-badge&logoColor=white" /> </a> </div> <br> <div align="center">
 🌟 Always learning. Always building.
