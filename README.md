@@ -158,7 +158,7 @@ I regularly practice **Data Structures & Algorithms in Java** ☕ across competi
 | 🏟️ Platform | 🏅 Achievement |
 | :--- | :--- |
 | 🟠 **LeetCode** | **1732 Peak Rating** |
-| 🌍 **CodeChef** | **360 Peak Global Rank** |
+| 🌍 **CodeChef** | **360 Peak Global Rank (DSA Monday Munch)** |
 | 🧩 **All Platforms** | **950+ Problems Solved** |
 | 🏆 **CodeChef DSA Monday Munch** | **4× Under 500 Rank** |
 
