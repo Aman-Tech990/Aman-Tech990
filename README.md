@@ -28,62 +28,6 @@ I'm currently going deeper into **System Design**, **Backend Systems & Microserv
 
 Alongside development, I regularly practice **Data Structures & Algorithms in Java** because strong engineering starts with strong fundamentals.
 
-```
-const aman = {
-    role: "Full-Stack Developer",
-    location: "Bhubaneswar, India",
-
-    experience: [
-        "DRDO Internship",
-        "Hackathons",
-        "Full-Stack Projects"
-    ],
-
-    development: [
-        "React",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "PostgreSQL"
-    ],
-
-    engineering: [
-        "Docker",
-        "Redis",
-        "NGINX",
-        "Microservices",
-        "REST APIs"
-    ],
-
-    cloudAndDevOps: [
-        "AWS",
-        "EC2",
-        "ECS",
-        "ECR",
-        "S3",
-        "IAM",
-        "CloudWatch",
-        "CI/CD"
-    ],
-
-    ai: [
-        "RAG",
-        "LangChain",
-        "LangGraph",
-        "Agentic AI"
-    ],
-
-    problemSolving: {
-        language: "Java",
-        problemsSolved: "950+",
-        leetCodePeakRating: 1732,
-        codeChefPeakGlobalRank: 360
-    },
-
-    philosophy: "Build. Learn. Improve."
-};
-```
-
 🧭 What I Do
 <table> <tr> <td width="50%" valign="top">
 🌐 Full-Stack Development
