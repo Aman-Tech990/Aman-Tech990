@@ -270,4 +270,4 @@ Build → Break → Understand → Improve
 
 🧠 Learn → 🛠️ Build → 💥 Break → 🔍 Understand → 📈 Improve
 
-<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E3A8A,70:2563EB,100:06B6D4&height=130&section=footer" width="100%"/> </div> ```
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E3A8A,70:2563EB,100:06B6D4&height=130&section=footer" width="100%"/> </div> 
