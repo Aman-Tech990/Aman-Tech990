@@ -24,7 +24,7 @@ Hi, I'm **Aman Parida**, a **Full-Stack Developer** who enjoys building things f
 
 I work across the stack, from crafting clean and intuitive interfaces to designing backend systems, APIs, databases, cloud infrastructure, and deployment pipelines.
 
-I'm currently going deeper into **System Design**, **Backend Systems & Microservices**, **Cloud & DevOps**, **Generative AI** and **Agentic AI**. I'm also exploring how **RAG, LangChain, and LangGraph** can be combined with modern web applications to build useful AI-powered products.
+I'm going deeper into **System Design**, **Backend Systems** & **Microservices**, **Cloud & DevOps**, **Generative AI**, and **Agentic AI**. I'm actively building with **RAG**, **LangChain**, **LangGraph**, **AWS** and **CI/CD**, integrating them with modern web applications to build practical AI-powered products.
 
 Alongside development, I regularly practice **Data Structures & Algorithms in Java** because strong engineering starts with strong fundamentals.
 
