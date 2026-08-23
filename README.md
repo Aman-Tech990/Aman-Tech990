@@ -4,22 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;Exploring+Generative+AI;RAG+%7C+LangChain+%7C+LangGraph;DSA+%7C+Java+%7C+Problem+Solving;Building+Things+That+Actually+Matter" />
 
-<br>
-
-<a href="https://github.com/Aman-Tech990">
-<img src="https://img.shields.io/badge/GITHUB-Aman--Tech990-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://github.com/Aman-Tech990?tab=followers">
-<img src="https://img.shields.io/github/followers/Aman-Tech990?label=FOLLOWERS&style=for-the-badge&color=06B6D4" />
-</a>
-<a href="https://github.com/Aman-Tech990?tab=repositories">
-<img src="https://img.shields.io/github/stars/Aman-Tech990?label=TOTAL%20STARS&style=for-the-badge&color=F59E0B" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### ⚡ Building. Breaking. Learning. Improving.
