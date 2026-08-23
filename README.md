@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;Exploring+Generative+AI;RAG+%7C+LangChain+%7C+LangGraph;DSA+%7C+Java+%7C+Problem+Solving;Building+Things+That+Actually+Matter" />
 
+</div>
+
+---
+
 <div align="center">
 
 ### ⚡ Building. Breaking. Learning. Improving.
@@ -20,7 +24,7 @@ Hi, I'm **Aman Parida**, a **Full-Stack Developer** who enjoys building things f
 
 I work across the stack, from crafting clean and intuitive interfaces to designing backend systems, APIs, databases, and infrastructure.
 
-I'm currently going deeper into **System Design**, **Backend Systems & Microservices** and **Generative AI**. Moreover exploring how **RAG, LangChain, and LangGraph** can be combined with modern web applications to build useful AI-powered products.
+I'm currently going deeper into **System Design**, **Backend Systems & Microservices**, and **Generative AI**. I'm also exploring how **RAG, LangChain, and LangGraph** can be combined with modern web applications to build useful AI-powered products.
 
 Alongside development, I regularly practice **Data Structures & Algorithms in Java** because strong engineering starts with strong fundamentals.
 
@@ -62,7 +66,7 @@ const aman = {
         language: "Java",
         problemsSolved: "950+",
         leetCodePeakRating: 1732,
-        codeChefPeakglobalRank: 360
+        codeChefPeakGlobalRank: 360
     },
 
     philosophy: "Build. Learn. Improve."
@@ -117,7 +121,63 @@ Focus
 
 </td> </tr> </table>
 🏆 Achievements
-<div align="center"> <table> <tr> <td align="center" width="180"> <h3>🧩</h3> <b>950+</b> <br> Problems Solved </td> <td align="center" width="180"> <h3>📈</h3> <b>1732</b> <br> LeetCode Peak Rating </td> <td align="center" width="180"> <h3>🌍</h3> <b>360</b> <br> CodeChef Peak Global Rank </td> <td align="center" width="180"> <h3>🏆</h3> <b>4×</b> <br> Under 500 Rank </td> </tr> <tr> <td align="center"> <h3>🛰️</h3> <b>DRDO</b> <br> Former Summer Intern </td> <td align="center"> <h3>🥇</h3> <b>SIH 2025</b> <br> Distinguished Performer </td> <td align="center"> <h3>💻</h3>
+<div align="center"> <table> <tr> <td align="center" width="180">
+🧩
+
+950+
+
+Problems Solved
+
+</td> <td align="center" width="180">
+📈
+
+1732
+
+LeetCode Peak Rating
+
+</td> <td align="center" width="180">
+🌍
+
+360
+
+CodeChef Peak Global Rank
+
+</td> <td align="center" width="180">
+🏆
+
+4×
+
+Under 500 Rank
+
+</td> </tr> <tr> <td align="center" width="180">
+🛰️
+
+DRDO
+
+Former Summer Intern
+
+</td> <td align="center" width="180">
+🥇
+
+SIH 2025
+
+Distinguished Performer
+
+</td> <td align="center" width="180">
+💻
+
+29+
+
+Repositories
+
+</td> <td align="center" width="180">
+⭐
+
+6+
+
+GitHub Stars
+
+</td> </tr> </table> </div>
 🧩 Problem Solving
 
 I regularly practice Data Structures & Algorithms in Java ☕ across competitive programming platforms.
@@ -125,10 +185,9 @@ I regularly practice Data Structures & Algorithms in Java ☕ across competitive
 <div align="center"> <img src="https://img.shields.io/badge/LEETCODE-1732%20PEAK%20RATING-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> <img src="https://img.shields.io/badge/950%2B-PROBLEMS%20SOLVED-2563EB?style=for-the-badge" /> <img src="https://img.shields.io/badge/GLOBAL%20RANK-360-06B6D4?style=for-the-badge" /> </div> <br>
 🏟️ Platform	🏅 Achievement
 🟠 LeetCode	1732 Peak Rating
-🌍 CodeChef	360 Peak Global Rank (DSA Monday Munch)
+🌍 CodeChef	360 Peak Global Rank
 🧩 All Platforms	950+ Problems Solved
 🏆 CodeChef DSA Monday Munch	4× Under 500 Rank
-
 🛠️ Tech Stack
 💻 Languages
 <div align="center"> <img src="https://skillicons.dev/icons?i=javascript,typescript,java,python" /> </div>
@@ -168,9 +227,7 @@ Worked on VedaVerse, an immersive Ayurveda-focused solution combining modern web
 </td> </tr> </table>
 🏗️ My Engineering Mindset
 <div align="center">
-
 💡 IDEA → 🔨 BUILD → 💥 BREAK → 🐛 DEBUG → 🧠 LEARN → 📈 IMPROVE → 🔁 REPEAT
-
 </div>
 💭 Philosophy
 <div align="center">
@@ -184,12 +241,8 @@ Worked on VedaVerse, an immersive Ayurveda-focused solution combining modern web
 🔍 Understand the systems behind them.
 
 <br>
-
 Build → Break → Understand → Improve
 
-</div>
-📊 GitHub Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aman-Tech990&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Tech990&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/> <br> <img src="https://streak-stats.demolab.com?user=Aman-Tech990&theme=tokyonight&hide_border=true" /> </div>
 🌐 Connect With Me
 <div align="center"> <a href="https://www.linkedin.com/in/aman-parida-374468360/"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Aman-Tech990"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://leetcode.com/Aman_tech/"> <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> <a href="YOUR_CODOLIO_PROFILE_URL"> <img src="https://img.shields.io/badge/CODOLIO-4F46E5?style=for-the-badge&logoColor=white" /> </a> </div> <br> <div align="center">
 🌟 Always learning. Always building.
