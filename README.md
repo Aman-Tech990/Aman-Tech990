@@ -214,6 +214,4 @@ Worked on **Sujhaa**, a digital platform for identifying **eligible BPL benefici
 <div align="center"> <a href="https://www.linkedin.com/in/aman-parida-374468360/"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Aman-Tech990"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://leetcode.com/Aman_tech/"> <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> <a href="https://codolio.com/profile/aman_parida"> <img src="https://img.shields.io/badge/CODOLIO-4F46E5?style=for-the-badge&logoColor=white" /> </a> </div> <br> <div align="center">
 🌟 Always learning. Always building.
 
-🧠 Learn → 🛠️ Build → 💥 Break → 🔍 Understand → 📈 Improve
-
 <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E3A8A,70:2563EB,100:06B6D4&height=130&section=footer" width="100%"/> </div> 
