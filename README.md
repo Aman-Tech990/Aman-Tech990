@@ -244,7 +244,7 @@ Worked on VedaVerse, an immersive Ayurveda-focused solution combining modern web
 Build → Break → Understand → Improve
 
 🌐 Connect With Me
-<div align="center"> <a href="https://www.linkedin.com/in/aman-parida-374468360/"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Aman-Tech990"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://leetcode.com/Aman_tech/"> <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> <a href="YOUR_CODOLIO_PROFILE_URL"> <img src="https://img.shields.io/badge/CODOLIO-4F46E5?style=for-the-badge&logoColor=white" /> </a> </div> <br> <div align="center">
+<div align="center"> <a href="https://www.linkedin.com/in/aman-parida-374468360/"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Aman-Tech990"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://leetcode.com/Aman_tech/"> <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> <a href="https://codolio.com/profile/aman_parida"> <img src="https://img.shields.io/badge/CODOLIO-4F46E5?style=for-the-badge&logoColor=white" /> </a> </div> <br> <div align="center">
 🌟 Always learning. Always building.
 
 🧠 Learn → 🛠️ Build → 💥 Break → 🔍 Understand → 📈 Improve
