@@ -197,9 +197,7 @@ Worked on a technical project involving real-time tracking systems and explored:
 
 Distinguished Performer
 
-Worked on **Sujhaa**, a digital platform for identifying **eligible BPL beneficiaries** under the **PM-AJAY Yojana** and enabling **end-to-end tracking and monitoring** of scheme implementation.
-
-The platform provides a unified view of beneficiary data and scheme progress across administrative levels, enabling monitoring from the **district level to the central level**.
+Worked on **Sujhaa**, a digital platform for identifying **eligible BPL beneficiaries** under the **PM-AJAY Yojana** and enabling **end-to-end tracking and monitoring** of scheme implementation. The platform provides a unified view of beneficiary data and scheme progress across administrative levels, enabling monitoring from the **district level to the central level**.
 
 🎯 Focus: **Beneficiary Identification • Verification • Tracking • Monitoring • Transparency**
 
