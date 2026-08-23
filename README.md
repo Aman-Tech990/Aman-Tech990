@@ -195,19 +195,33 @@ SIH 2025
 Distinguished Performer
 </td> </tr> </table> </div>
 
-🧩 Problem Solving
+## 🧩 Problem Solving
 
-I regularly practice Data Structures & Algorithms in Java ☕ across competitive programming platforms.
+I regularly practice **Data Structures & Algorithms in Java** ☕ across competitive programming platforms.
 
-<div align="center"> <img src="https://img.shields.io/badge/LEETCODE-1732%20PEAK%20RATING-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> <img src="https://img.shields.io/badge/950%2B-PROBLEMS%20SOLVED-2563EB?style=for-the-badge" /> <img src="https://img.shields.io/badge/GLOBAL%20RANK-360-06B6D4?style=for-the-badge" /> </div> <br>
-🏟️ Platform	🏅 Achievement
-🟠 LeetCode	1732 Peak Rating
-🌍 CodeChef	360 Peak Global Rank
-🧩 All Platforms	950+ Problems Solved
-🏆 CodeChef DSA Monday Munch	4× Under 500 Rank
+<div align="center">
+
+<img src="https://img.shields.io/badge/LEETCODE-1732%20PEAK%20RATING-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+
+<img src="https://img.shields.io/badge/950%2B-PROBLEMS%20SOLVED-2563EB?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/GLOBAL%20RANK-360-06B6D4?style=for-the-badge" />
+
+</div>
+
+<br>
+
+| 🏟️ Platform | 🏅 Achievement |
+| :--- | :--- |
+| 🟠 **LeetCode** | **1732 Peak Rating** |
+| 🌍 **CodeChef** | **360 Peak Global Rank** |
+| 🧩 **All Platforms** | **950+ Problems Solved** |
+| 🏆 **CodeChef DSA Monday Munch** | **4× Under 500 Rank** |
+
+<br>
 🛠️ Tech Stack
 💻 Languages
-<div align="center"> <img src="https://skillicons.dev/icons?i=javascript,typescript,java,python" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=javascript,typescript,java" /> </div>
 🎨 Frontend
 <div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /> <br> <img src="https://img.shields.io/badge/ShadCN_UI-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge" /> </div>
 ⚙️ Backend
