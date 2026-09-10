@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 
 Hi, I'm **Aman Parida**, a **Full-Stack Developer** who enjoys building things from the ground up.
 
