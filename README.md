@@ -1,4 +1,4 @@
-<div align="center"> 
+ <div align="center"> 
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E3A8A,70:2563EB,100:06B6D4&height=220&section=header&text=AMAN%20PARIDA&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI-Powered%20Web%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
  
