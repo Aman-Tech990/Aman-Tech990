@@ -8,7 +8,7 @@
   
 --- 
      
-<div align="center">
+<div align="center"> 
 
 ### ⚡ Building. Breaking. Learning. Improving.
 
