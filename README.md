@@ -101,7 +101,7 @@ Focus
 
 1000+
 
-Problems Solved
+DSA Problems Solved
 
 </td> <td align="center" width="180">
 📈
