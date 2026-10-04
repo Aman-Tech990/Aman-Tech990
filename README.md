@@ -167,11 +167,15 @@ I regularly practice **Data Structures & Algorithms in Java** ☕ across competi
 💻 Languages
 <div align="center"> <img src="https://skillicons.dev/icons?i=javascript,typescript,java" /> </div>
 🎨 Frontend
-<div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /> <br> <img src="https://img.shields.io/badge/ShadCN_UI-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=react,tailwind" /> <br> <img src="https://img.shields.io/badge/ShadCN_UI-111111?style=for-the-badge" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge" /> </div>
 ⚙️ Backend
 <div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </div>
-🗄️ Databases
-<div align="center"> <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" /> </div>
+🗄️ Databases & ORM
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</div>
 ☁️ Cloud & AWS
 <div align="center"> <img src="https://skillicons.dev/icons?i=aws" /> <br> <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" /> </div>
 🐳 DevOps & Infrastructure
