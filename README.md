@@ -99,7 +99,7 @@ Focus
 <div align="center"> <table> <tr> <td align="center" width="180">
 🧩
 
-950+
+1000+
 
 Problems Solved
 
