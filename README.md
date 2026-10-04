@@ -147,7 +147,7 @@ I regularly practice **Data Structures & Algorithms in Java** ☕ across competi
 
 <img src="https://img.shields.io/badge/LEETCODE-1732%20PEAK%20RATING-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 
-<img src="https://img.shields.io/badge/950%2B-PROBLEMS%20SOLVED-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/1000%2B-PROBLEMS%20SOLVED-2563EB?style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/GLOBAL%20RANK-360-06B6D4?style=for-the-badge" />
 
