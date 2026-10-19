@@ -295,16 +295,6 @@ The platform supports beneficiary identification, verification, and monitoring a
 </tr>
 </table>
 
-## 🏗️ My Engineering Mindset
-
-<div align="center">
-
-💡 IDEA → 🔨 BUILD → 💥 BREAK → 🐛 DEBUG → 🧠 LEARN → 📈 IMPROVE → 🔁 REPEAT
-
-</div>
-
-<br>
-
 ## 🌐 Connect With Me
 
 <div align="center">
