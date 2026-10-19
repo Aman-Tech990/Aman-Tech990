@@ -213,10 +213,6 @@ I regularly practice **Data Structures & Algorithms in Java** across competitive
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-<br><br>
-<img src="https://img.shields.io/badge/ShadCN_UI-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge" />
 </div>
 
 ### ⚙️ Backend Development
@@ -234,7 +230,7 @@ I regularly practice **Data Structures & Algorithms in Java** across competitive
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" />
 </div>
 
-### 🤖 AI / Generative AI
+### 🤖 Generative & Agentic AI
 
 <div align="center">
 <img src="https://img.shields.io/badge/LLM_APIs-111827?style=for-the-badge" />
