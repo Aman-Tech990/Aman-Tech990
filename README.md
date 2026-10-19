@@ -24,7 +24,7 @@ Hi, I'm **Aman Parida**, a Full-Stack Developer passionate about building practi
 
 I work across modern web technologies, from developing intuitive user interfaces to building backend services, designing APIs, integrating databases, and deploying applications.
 
-My interests extend beyond a single technology stack. I'm exploring **backend engineering, system design, Generative AI, and AI-powered application development**, with a focus on applying these concepts to real-world projects.
+My interests extend beyond a single technology stack. I'm exploring **backend engineering, system design, Generative and Agentic AI, and AI-powered application development**, with a focus on applying these concepts to real-world projects.
 
 I also enjoy competitive programming and regularly practice **Data Structures & Algorithms in Java**, strengthening the problem-solving fundamentals that guide my approach to software engineering.
 
