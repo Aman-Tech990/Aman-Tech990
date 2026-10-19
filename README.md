@@ -94,7 +94,7 @@ Exploring how modern AI capabilities can be integrated into useful software prod
 Working with practical tools for application deployment and development workflows.
 
 **Technologies**
-- ☁️ AWS EC2
+- ☁️ AWS
 - 🐳 Docker
 - 🌐 NGINX
 - 🔄 CI/CD · GitHub Actions
