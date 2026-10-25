@@ -19,7 +19,6 @@
 ---
 
 ## 👨‍💻 About Me
-
 Hi, I'm **Aman Parida**, a Full-Stack Developer passionate about building practical software and understanding how systems work under the hood.
 
 I work across modern web technologies, from developing intuitive user interfaces to building backend services, designing APIs, integrating databases, and deploying applications.
