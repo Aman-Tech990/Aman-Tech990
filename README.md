@@ -35,7 +35,7 @@ I also enjoy competitive programming and regularly practice **Data Structures & 
 - 🧠 Practicing DSA and competitive programming
 
 ## 🧭 What I Do
-
+ 
 <table>
 <tr>
 <td width="50%" valign="top">
