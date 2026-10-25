@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Building+Across+Modern+Web+Stacks;Exploring+AI-Powered+Applications;Backend+Engineering+%26+System+Design;Java+%7C+DSA+%7C+Problem+Solving;Building+Things+That+Actually+Matter" />
 
 </div>
-
+ 
 ---
 
 <div align="center">
